@@ -2,6 +2,7 @@
 layout: post
 title: Ubuntu One命令行工具
 tags: [python,linux,ubuntu,dropbox]
+categories: linux
 ---
 
 前段时间翻译了[Argparse简易教程][1]，刚学python，业余时间做了个[Ubuntu One][2]的命令行工具练下手，现在基本上可以使用了，有很多地方没有优化处理，大家可以自己修改下，源码在[ubuntuone_uploader][3]，下面说说一些用法。
