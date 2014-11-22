@@ -1,4 +1,4 @@
-markdown: redcarpet
+markdown: rdiscount
 permalink: /:title.html
 url: http://alfred-sun.github.io/blog
 lsi: true
