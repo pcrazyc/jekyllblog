@@ -2,6 +2,7 @@
 layout: post
 title: Python import 测试
 tags: [python]
+categories: python
 ---
 
 成千上万的package和module是python最强大得威力，最近在使用python的import时有点晕，做了个小的test想弄清楚各种import的不同之处， 下面是我的一个小实验，看来python的基础只是不扎实呀-_-!
