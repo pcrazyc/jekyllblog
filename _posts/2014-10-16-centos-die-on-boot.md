@@ -2,6 +2,7 @@
 layout: post
 title: CentOS开机卡在进度条的解决方法
 tags: [centos, linux]
+categories: [linux, centos]
 ---
 
 好久没更新了，换工作有一只都很忙。今天在虚拟机中同时开了windows 7 和 centos 后，centos 莫名其妙的开始在进度条， google之。
