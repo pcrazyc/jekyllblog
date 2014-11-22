@@ -1,6 +1,6 @@
 markdown: redcarpet
 permalink: /:title.html
-url: http://blog.alfredsun.me
+url: http://blog.alfred-sun.me
 lsi: true
 pygments: true
 safe: true
