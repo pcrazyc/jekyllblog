@@ -7,8 +7,6 @@ categories: linux
 
 前段时间翻译了[Argparse简易教程][1]，刚学python，业余时间做了个[Ubuntu One][2]的命令行工具练下手，现在基本上可以使用了，有很多地方没有优化处理，大家可以自己修改下，源码在[ubuntuone_uploader][3]，下面说说一些用法。
 
-<!--more-->
-
 ####安装
 
 脚本依赖`oauth2`, ubuntu 下可以 `sudo apt-get install python-oauth2` 安装。
@@ -18,6 +16,8 @@ git clone https://github.com/likebeta/ubuntuone_uploader.git
 cd ubuntuone_uploader
 chmod +x ubuntuone_uploader.py
 ```
+
+<!--more-->
 
 ####帮助
 
