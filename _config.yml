@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:title.html
-url: http://alfred-sun.github.io/jekyllblog
+url: http://pcrazyc.github.io/jekyllblog
 lsi: true
 pygments: true
 safe: true
